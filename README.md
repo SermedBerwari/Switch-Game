@@ -9,4 +9,4 @@ when you tap on any one, this circle with any other circle beside it will toogle
 if all circles have green color you finished it.
 you can share your score.
 
-![](assets/Screenshot_1642761821.png)
+![](Screenshot_1642761821.png)
